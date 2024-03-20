@@ -4,6 +4,7 @@ Official implement for paper: ["Whether you can locate or not? Interactive Refer
 Our code is coming soon.
 
 ## 🔥 News
+- 2024.3.20: Release the codebase.
 - 2023.7.26: Our paper is accepted by ACM MM 2023 Main Track. 
 
 ## ✒ Citation
