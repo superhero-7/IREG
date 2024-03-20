@@ -1,0 +1,902 @@
+2023-04-24 09:29:39.477 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-RL/1e-05/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 09:29:39.514 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:30:19.542 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:30:19.598 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-RL/1e-05/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 09:31:06.456 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:32:14.851 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-RL/1e-05/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 09:32:14.964 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:43:11.835 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:43:11.907 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 09:43:41.085 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 09:43:41.205 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:44:29.352 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:46:19.865 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:47:51.871 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:52:26.096 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:57:58.352 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-RL/1e-05/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 09:57:58.356 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 09:59:55.314 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 10:01:20.143 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 10:08:58.878 | INFO     | __main__:test:103 - CIDEr : 0.8848040804479883
+2023-04-24 10:08:58.879 | INFO     | __main__:test:103 - CIDErs : [0.90022212 0.35188736 0.02450136 ... 0.48624902 1.84905968 1.2312014 ]
+2023-04-24 10:08:58.879 | INFO     | __main__:test:103 - METEOR : 0.2999821174056042
+2023-04-24 10:08:58.879 | INFO     | __main__:test:103 - OFA_Acc : 0.7610126582278481
+2023-04-24 10:08:59.439 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-24 10:08:59.439 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-RL/1e-05/BEST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-24 10:15:37.693 | INFO     | __main__:test:103 - CIDEr : 0.9686678626524657
+2023-04-24 10:15:37.693 | INFO     | __main__:test:103 - CIDEr : 0.9686678626524657
+2023-04-24 10:15:37.694 | INFO     | __main__:test:103 - CIDErs : [1.43245151 0.14721379 1.58683274 ... 1.0612989  0.82920655 1.1847805 ]
+2023-04-24 10:15:37.694 | INFO     | __main__:test:103 - CIDErs : [1.43245151 0.14721379 1.58683274 ... 1.0612989  0.82920655 1.1847805 ]
+2023-04-24 10:15:37.694 | INFO     | __main__:test:103 - METEOR : 0.23389486814613378
+2023-04-24 10:15:37.694 | INFO     | __main__:test:103 - METEOR : 0.23389486814613378
+2023-04-24 10:15:37.694 | INFO     | __main__:test:103 - OFA_Acc : 0.5266963292547274
+2023-04-24 10:15:37.694 | INFO     | __main__:test:103 - OFA_Acc : 0.5266963292547274
+2023-04-24 10:16:53.858 | INFO     | __main__:test:20 - Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-RL/1e-05/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 10:29:50.083 | INFO     | __main__:test:103 - CIDEr : 1.0280873119341798
+2023-04-24 10:29:50.084 | INFO     | __main__:test:103 - CIDErs : [1.22219427 0.95657066 0.90115585 ... 1.21263789 0.04782225 1.04124436]
+2023-04-24 10:29:50.084 | INFO     | __main__:test:103 - METEOR : 0.18746458409788047
+2023-04-24 10:29:50.084 | INFO     | __main__:test:103 - OFA_Acc : 0.7609794014768753
+2023-04-24 10:55:39.598 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-24 11:03:12.483 | INFO     | __main__:test:103 - CIDEr : 1.0116632201840534
+2023-04-24 11:03:12.484 | INFO     | __main__:test:103 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-04-24 11:03:12.484 | INFO     | __main__:test:103 - METEOR : 0.34272250319231
+2023-04-24 11:03:12.485 | INFO     | __main__:test:103 - OFA_Acc : 0.8830379746835443
+2023-04-24 11:03:13.093 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-24 11:03:13.093 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-24 11:10:07.112 | INFO     | __main__:test:103 - CIDEr : 1.5098526841765265
+2023-04-24 11:10:07.112 | INFO     | __main__:test:103 - CIDEr : 1.5098526841765265
+2023-04-24 11:10:07.113 | INFO     | __main__:test:103 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-24 11:10:07.113 | INFO     | __main__:test:103 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-24 11:10:07.113 | INFO     | __main__:test:103 - METEOR : 0.3644829115266883
+2023-04-24 11:10:07.113 | INFO     | __main__:test:103 - METEOR : 0.3644829115266883
+2023-04-24 11:10:07.113 | INFO     | __main__:test:103 - OFA_Acc : 0.8049723756906078
+2023-04-24 11:10:07.113 | INFO     | __main__:test:103 - OFA_Acc : 0.8049723756906078
+2023-04-24 11:10:07.743 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 11:10:07.743 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 11:10:07.743 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-24 11:17:59.506 | INFO     | __main__:test:103 - CIDEr : 0.8717513344825143
+2023-04-24 11:17:59.506 | INFO     | __main__:test:103 - CIDEr : 0.8717513344825143
+2023-04-24 11:17:59.506 | INFO     | __main__:test:103 - CIDEr : 0.8717513344825143
+2023-04-24 11:17:59.507 | INFO     | __main__:test:103 - CIDErs : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-24 11:17:59.507 | INFO     | __main__:test:103 - CIDErs : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-24 11:17:59.507 | INFO     | __main__:test:103 - CIDErs : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-24 11:17:59.507 | INFO     | __main__:test:103 - METEOR : 0.30085087762348567
+2023-04-24 11:17:59.507 | INFO     | __main__:test:103 - METEOR : 0.30085087762348567
+2023-04-24 11:17:59.507 | INFO     | __main__:test:103 - METEOR : 0.30085087762348567
+2023-04-24 11:17:59.508 | INFO     | __main__:test:103 - OFA_Acc : 0.7782278481012658
+2023-04-24 11:17:59.508 | INFO     | __main__:test:103 - OFA_Acc : 0.7782278481012658
+2023-04-24 11:17:59.508 | INFO     | __main__:test:103 - OFA_Acc : 0.7782278481012658
+2023-04-24 11:18:00.102 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-24 11:18:00.102 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-24 11:18:00.102 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-24 11:18:00.102 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-24 11:25:16.210 | INFO     | __main__:test:103 - CIDEr : 0.9501950668757412
+2023-04-24 11:25:16.210 | INFO     | __main__:test:103 - CIDEr : 0.9501950668757412
+2023-04-24 11:25:16.210 | INFO     | __main__:test:103 - CIDEr : 0.9501950668757412
+2023-04-24 11:25:16.210 | INFO     | __main__:test:103 - CIDEr : 0.9501950668757412
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - CIDErs : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - CIDErs : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - CIDErs : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - CIDErs : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - METEOR : 0.2582038835153447
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - METEOR : 0.2582038835153447
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - METEOR : 0.2582038835153447
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - METEOR : 0.2582038835153447
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - OFA_Acc : 0.5795328142380423
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - OFA_Acc : 0.5795328142380423
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - OFA_Acc : 0.5795328142380423
+2023-04-24 11:25:16.211 | INFO     | __main__:test:103 - OFA_Acc : 0.5795328142380423
+2023-04-24 11:25:16.804 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 11:25:16.804 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 11:25:16.804 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 11:25:16.804 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcocog, split is val, Results Saved in None
+2023-04-24 11:25:16.804 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, Dataset is refcocog, split is val, Results Saved in None
+2023-04-25 02:29:04.105 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, Dataset is refcocog, split is val, Results Saved in None
+2023-04-25 02:43:44.915 | INFO     | __main__:test:103 - CIDEr : 0.9680655566673091
+2023-04-25 02:43:44.916 | INFO     | __main__:test:103 - CIDErs : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-04-25 02:43:44.916 | INFO     | __main__:test:103 - METEOR : 0.18401154511037102
+2023-04-25 02:43:44.916 | INFO     | __main__:test:103 - OFA_Acc : 0.725612125923047
+2023-04-28 05:44:59.924 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 05:48:02.904 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 05:48:53.112 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 05:51:22.991 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 05:57:26.142 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 06:01:50.986 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 06:03:20.939 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 06:07:26.287 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 06:25:18.138 | INFO     | __main__:test:104 - CIDEr : 0.8761738354798462
+2023-04-28 06:25:18.139 | INFO     | __main__:test:104 - CIDErs : [0.6478891  0.35188736 0.278411   ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 06:25:18.139 | INFO     | __main__:test:104 - METEOR : 0.30052218529895647
+2023-04-28 06:25:18.139 | INFO     | __main__:test:104 - OFA_Acc : 0.84
+2023-04-28 06:25:18.139 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.7782278481012658
+2023-04-28 06:25:18.139 | INFO     | __main__:test:104 - CIDEr_first_round : 0.8717513344825143
+2023-04-28 06:25:18.140 | INFO     | __main__:test:104 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 06:25:18.140 | INFO     | __main__:test:104 - METEOR_first_round : 0.30085087762348567
+2023-04-28 06:25:18.163 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 06:25:18.163 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 06:33:09.993 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 06:37:46.162 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 06:55:33.036 | INFO     | __main__:test:104 - CIDEr : 0.8761738354798462
+2023-04-28 06:55:33.037 | INFO     | __main__:test:104 - CIDErs : [0.6478891  0.35188736 0.278411   ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 06:55:33.037 | INFO     | __main__:test:104 - METEOR : 0.30052218529895647
+2023-04-28 06:55:33.037 | INFO     | __main__:test:104 - OFA_Acc : 0.84
+2023-04-28 06:55:33.037 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.7782278481012658
+2023-04-28 06:55:33.037 | INFO     | __main__:test:104 - CIDEr_first_round : 0.8717513344825143
+2023-04-28 06:55:33.038 | INFO     | __main__:test:104 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 06:55:33.038 | INFO     | __main__:test:104 - METEOR_first_round : 0.30085087762348567
+2023-04-28 06:55:33.603 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 06:55:33.603 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 07:20:01.383 | INFO     | __main__:test:104 - CIDEr : 0.9118929829994807
+2023-04-28 07:20:01.383 | INFO     | __main__:test:104 - CIDEr : 0.9118929829994807
+2023-04-28 07:20:01.384 | INFO     | __main__:test:104 - CIDErs : [1.00854239 0.41342522 0.55203904 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 07:20:01.384 | INFO     | __main__:test:104 - CIDErs : [1.00854239 0.41342522 0.55203904 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 07:20:01.384 | INFO     | __main__:test:104 - METEOR : 0.251760098165149
+2023-04-28 07:20:01.384 | INFO     | __main__:test:104 - METEOR : 0.251760098165149
+2023-04-28 07:20:01.384 | INFO     | __main__:test:104 - OFA_Acc : 0.6612903225806451
+2023-04-28 07:20:01.384 | INFO     | __main__:test:104 - OFA_Acc : 0.6612903225806451
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.5795328142380423
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.5795328142380423
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - CIDEr_first_round : 0.9501950668757412
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - CIDEr_first_round : 0.9501950668757412
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - METEOR_first_round : 0.2582038835153447
+2023-04-28 07:20:01.385 | INFO     | __main__:test:104 - METEOR_first_round : 0.2582038835153447
+2023-04-28 07:37:48.658 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 07:52:58.692 | INFO     | __main__:test:104 - CIDEr : 1.016677750624714
+2023-04-28 07:52:58.693 | INFO     | __main__:test:104 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-04-28 07:52:58.693 | INFO     | __main__:test:104 - METEOR : 0.3438204471512949
+2023-04-28 07:52:58.693 | INFO     | __main__:test:104 - OFA_Acc : 0.9068354430379747
+2023-04-28 07:52:58.693 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.8830379746835443
+2023-04-28 07:52:58.693 | INFO     | __main__:test:104 - CIDEr_first_round : 1.0116632201840534
+2023-04-28 07:52:58.694 | INFO     | __main__:test:104 - CIDErs_first_round : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-04-28 07:52:58.694 | INFO     | __main__:test:104 - METEOR_first_round : 0.34272250319231
+2023-04-28 07:52:59.253 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 07:52:59.253 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 08:09:08.175 | INFO     | __main__:test:104 - CIDEr : 1.5041771026540403
+2023-04-28 08:09:08.175 | INFO     | __main__:test:104 - CIDEr : 1.5041771026540403
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - METEOR : 0.36572293839639436
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - METEOR : 0.36572293839639436
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - OFA_Acc : 0.8320441988950277
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - OFA_Acc : 0.8320441988950277
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.8049723756906078
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.8049723756906078
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - CIDEr_first_round : 1.5098526841765265
+2023-04-28 08:09:08.176 | INFO     | __main__:test:104 - CIDEr_first_round : 1.5098526841765265
+2023-04-28 08:09:08.177 | INFO     | __main__:test:104 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 08:09:08.177 | INFO     | __main__:test:104 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 08:09:08.177 | INFO     | __main__:test:104 - METEOR_first_round : 0.3644829115266883
+2023-04-28 08:09:08.177 | INFO     | __main__:test:104 - METEOR_first_round : 0.3644829115266883
+2023-04-28 08:09:08.768 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 08:09:08.768 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 08:09:08.768 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 08:34:46.415 | INFO     | __main__:test:104 - CIDEr : 0.3232172592789486
+2023-04-28 08:34:46.415 | INFO     | __main__:test:104 - CIDEr : 0.3232172592789486
+2023-04-28 08:34:46.415 | INFO     | __main__:test:104 - CIDEr : 0.3232172592789486
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - CIDErs : [0.14677086 0.11654997 0.61236672 ... 0.04072772 0.         0.33726379]
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - CIDErs : [0.14677086 0.11654997 0.61236672 ... 0.04072772 0.         0.33726379]
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - CIDErs : [0.14677086 0.11654997 0.61236672 ... 0.04072772 0.         0.33726379]
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - METEOR : 0.2504026702642668
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - METEOR : 0.2504026702642668
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - METEOR : 0.2504026702642668
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - OFA_Acc : 0.789367088607595
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - OFA_Acc : 0.789367088607595
+2023-04-28 08:34:46.416 | INFO     | __main__:test:104 - OFA_Acc : 0.789367088607595
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.7508860759493671
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.7508860759493671
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.7508860759493671
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - CIDEr_first_round : 0.325788253009353
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - CIDEr_first_round : 0.325788253009353
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - CIDEr_first_round : 0.325788253009353
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - CIDErs_first_round : [0.14677086 0.27117103 0.61236672 ... 0.04072772 0.         0.33726379]
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - CIDErs_first_round : [0.14677086 0.27117103 0.61236672 ... 0.04072772 0.         0.33726379]
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - CIDErs_first_round : [0.14677086 0.27117103 0.61236672 ... 0.04072772 0.         0.33726379]
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - METEOR_first_round : 0.24992867433421756
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - METEOR_first_round : 0.24992867433421756
+2023-04-28 08:34:46.417 | INFO     | __main__:test:104 - METEOR_first_round : 0.24992867433421756
+2023-04-28 08:34:47.007 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 08:34:47.007 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 08:34:47.007 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 08:34:47.007 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 09:03:35.849 | INFO     | __main__:test:104 - CIDEr : 0.8429610872159607
+2023-04-28 09:03:35.849 | INFO     | __main__:test:104 - CIDEr : 0.8429610872159607
+2023-04-28 09:03:35.849 | INFO     | __main__:test:104 - CIDEr : 0.8429610872159607
+2023-04-28 09:03:35.849 | INFO     | __main__:test:104 - CIDEr : 0.8429610872159607
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDErs : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.1250381  0.60425662]
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDErs : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.1250381  0.60425662]
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDErs : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.1250381  0.60425662]
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDErs : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.1250381  0.60425662]
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - METEOR : 0.2595819134707858
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - METEOR : 0.2595819134707858
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - METEOR : 0.2595819134707858
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - METEOR : 0.2595819134707858
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc : 0.6403314917127072
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc : 0.6403314917127072
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc : 0.6403314917127072
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc : 0.6403314917127072
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.5845303867403315
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.5845303867403315
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.5845303867403315
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - OFA_Acc_first_round : 0.5845303867403315
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDEr_first_round : 0.8735190406948048
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDEr_first_round : 0.8735190406948048
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDEr_first_round : 0.8735190406948048
+2023-04-28 09:03:35.851 | INFO     | __main__:test:104 - CIDEr_first_round : 0.8735190406948048
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - CIDErs_first_round : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.3138331  0.60425662]
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - CIDErs_first_round : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.3138331  0.60425662]
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - CIDErs_first_round : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.3138331  0.60425662]
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - CIDErs_first_round : [0.17981555 0.11035696 1.12400036 ... 1.18761829 1.3138331  0.60425662]
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - METEOR_first_round : 0.25803063058290887
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - METEOR_first_round : 0.25803063058290887
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - METEOR_first_round : 0.25803063058290887
+2023-04-28 09:03:35.852 | INFO     | __main__:test:104 - METEOR_first_round : 0.25803063058290887
+2023-04-28 10:11:00.411 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-28 10:44:15.890 | INFO     | __main__:test:77 - CIDEr : 0.9619339635382643
+2023-04-28 10:44:15.891 | INFO     | __main__:test:77 - CIDErs : [1.37433525 1.2646543  1.04404198 ... 1.21263789 0.00255506 0.76098633]
+2023-04-28 10:44:15.891 | INFO     | __main__:test:77 - METEOR : 0.18448176782232392
+2023-04-28 10:44:15.891 | INFO     | __main__:test:77 - OFA_Acc : 0.7679751263116984
+2023-04-28 10:44:15.892 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-04-28 10:44:15.892 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-04-28 10:44:15.892 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-04-28 10:44:15.892 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-04-28 12:58:55.394 | INFO     | __main__:test:20 - Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, Dataset is refcocog, split is val, Results Saved in None
+2023-04-28 13:12:49.545 | INFO     | __main__:test:103 - CIDEr : 0.9680655566673091
+2023-04-28 13:12:49.546 | INFO     | __main__:test:103 - CIDErs : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-04-28 13:12:49.546 | INFO     | __main__:test:103 - METEOR : 0.18401154511037102
+2023-04-28 13:12:49.546 | INFO     | __main__:test:103 - OFA_Acc : 0.725612125923047
+2023-04-28 13:19:16.152 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/BEST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-28 13:52:39.739 | INFO     | __main__:test:77 - CIDEr : 0.9619339635382643
+2023-04-28 13:52:39.740 | INFO     | __main__:test:77 - CIDErs : [1.37433525 1.2646543  1.04404198 ... 1.21263789 0.00255506 0.76098633]
+2023-04-28 13:52:39.740 | INFO     | __main__:test:77 - METEOR : 0.18448176782232392
+2023-04-28 13:52:39.740 | INFO     | __main__:test:77 - OFA_Acc : 0.7679751263116984
+2023-04-28 13:52:39.740 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-04-28 13:52:39.741 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-04-28 13:52:39.741 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-04-28 13:52:39.741 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-04-28 15:53:33.269 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in None
+2023-04-28 16:08:22.564 | INFO     | __main__:test:77 - CIDEr : 1.0235368167114833
+2023-04-28 16:08:22.565 | INFO     | __main__:test:77 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-04-28 16:08:22.565 | INFO     | __main__:test:77 - METEOR : 0.3460271875071083
+2023-04-28 16:08:22.565 | INFO     | __main__:test:77 - OFA_Acc : 0.9220253164556962
+2023-04-28 16:08:22.566 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8830379746835443
+2023-04-28 16:08:22.566 | INFO     | __main__:test:77 - CIDEr_first_round : 1.0116632201840534
+2023-04-28 16:08:22.566 | INFO     | __main__:test:77 - CIDErs_first_round : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-04-28 16:08:22.566 | INFO     | __main__:test:77 - METEOR_first_round : 0.34272250319231
+2023-04-28 16:08:23.050 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 16:08:23.050 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in None
+2023-04-28 16:25:50.782 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-04-28 16:25:50.782 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-04-28 16:25:50.783 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 16:25:50.783 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 16:25:50.783 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-04-28 16:25:50.783 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-04-28 16:25:50.784 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-04-28 16:25:51.398 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-28 16:25:51.398 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-28 16:25:51.398 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in None
+2023-04-28 16:58:31.169 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-04-28 16:58:31.169 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-04-28 16:58:31.169 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-04-28 16:58:31.170 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-04-28 16:58:31.170 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-04-28 16:58:31.170 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-04-28 16:58:31.171 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-04-28 16:58:31.172 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-04-28 16:58:31.172 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-04-28 16:58:31.172 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-04-28 16:58:31.761 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 16:58:31.761 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 16:58:31.761 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 16:58:31.761 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in None
+2023-04-28 17:16:33.149 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-04-28 17:16:33.149 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-04-28 17:16:33.149 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-04-28 17:16:33.149 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-04-28 17:16:33.151 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-04-28 17:16:33.152 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-04-28 17:16:33.758 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 17:16:33.758 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 17:16:33.758 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 17:16:33.758 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 17:16:33.758 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in None
+2023-04-28 17:38:45.905 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-04-28 17:38:45.905 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-04-28 17:38:45.905 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-04-28 17:38:45.905 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-04-28 17:38:45.905 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-04-28 17:38:45.907 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-04-28 17:38:45.908 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 10:48:39.417 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in None
+2023-05-02 10:49:41.096 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST
+2023-05-02 11:03:47.224 | INFO     | __main__:test:77 - CIDEr : 1.0235368167114833
+2023-05-02 11:03:47.225 | INFO     | __main__:test:77 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 11:03:47.225 | INFO     | __main__:test:77 - METEOR : 0.3460271875071083
+2023-05-02 11:03:47.225 | INFO     | __main__:test:77 - OFA_Acc : 0.9220253164556962
+2023-05-02 11:03:47.226 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8830379746835443
+2023-05-02 11:03:47.226 | INFO     | __main__:test:77 - CIDEr_first_round : 1.0116632201840534
+2023-05-02 11:03:47.226 | INFO     | __main__:test:77 - CIDErs_first_round : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 11:03:47.226 | INFO     | __main__:test:77 - METEOR_first_round : 0.34272250319231
+2023-05-02 11:03:47.663 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST
+2023-05-02 11:03:47.663 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST
+2023-05-02 11:19:03.543 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-02 11:19:03.543 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-02 11:19:03.544 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-02 11:19:03.545 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 11:19:03.545 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 11:19:03.545 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-02 11:19:03.545 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-02 11:19:04.156 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_LAST
+2023-05-02 11:19:04.156 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_LAST
+2023-05-02 11:19:04.156 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_LAST
+2023-05-02 11:51:17.047 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-02 11:51:17.047 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-02 11:51:17.047 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-02 11:51:17.049 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-02 11:51:17.050 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-02 11:51:17.050 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-02 11:51:17.050 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-02 11:51:17.050 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-02 11:51:17.050 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-02 11:51:17.050 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-02 11:51:17.675 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 11:51:17.675 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 11:51:17.675 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 11:51:17.675 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 12:08:28.096 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 12:08:28.096 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 12:08:28.096 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 12:08:28.096 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 12:08:28.097 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 12:08:28.098 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 12:08:28.700 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 12:08:28.700 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 12:08:28.700 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 12:08:28.700 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 12:08:28.700 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST
+2023-05-02 12:30:30.675 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 12:30:30.675 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 12:30:30.675 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 12:30:30.675 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 12:30:30.675 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 12:30:30.676 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.676 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.676 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.676 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.676 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 12:30:30.677 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 12:30:30.678 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 12:34:55.651 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testA
+2023-05-02 12:48:59.699 | INFO     | __main__:test:77 - CIDEr : 1.0235368167114833
+2023-05-02 12:48:59.700 | INFO     | __main__:test:77 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 12:48:59.700 | INFO     | __main__:test:77 - METEOR : 0.3460271875071083
+2023-05-02 12:48:59.700 | INFO     | __main__:test:77 - OFA_Acc : 0.9220253164556962
+2023-05-02 12:48:59.700 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8830379746835443
+2023-05-02 12:48:59.700 | INFO     | __main__:test:77 - CIDEr_first_round : 1.0116632201840534
+2023-05-02 12:48:59.700 | INFO     | __main__:test:77 - CIDErs_first_round : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 12:48:59.700 | INFO     | __main__:test:77 - METEOR_first_round : 0.34272250319231
+2023-05-02 12:49:00.270 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testB
+2023-05-02 12:49:00.270 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testB
+2023-05-02 13:04:15.524 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-02 13:04:15.524 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-02 13:04:15.525 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 13:04:15.525 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 13:04:15.526 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 13:04:15.527 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-02 13:04:15.527 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-02 13:04:16.114 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testA
+2023-05-02 13:04:16.114 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testA
+2023-05-02 13:04:16.114 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testA
+2023-05-02 13:21:30.991 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 13:21:30.991 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 13:21:30.991 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 13:21:30.993 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 13:21:30.994 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 13:21:31.620 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-02 13:21:31.620 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-02 13:21:31.620 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-02 13:21:31.620 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-02 13:43:27.342 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 13:43:27.342 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 13:43:27.342 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 13:43:27.342 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 13:43:27.343 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.344 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 13:43:27.345 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 13:43:27.345 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 13:43:27.345 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 13:43:27.345 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 13:56:00.300 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_BEST/testA
+2023-05-02 14:10:05.241 | INFO     | __main__:test:77 - CIDEr : 1.0235368167114833
+2023-05-02 14:10:05.242 | INFO     | __main__:test:77 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 14:10:05.242 | INFO     | __main__:test:77 - METEOR : 0.3460271875071083
+2023-05-02 14:10:05.242 | INFO     | __main__:test:77 - OFA_Acc : 0.9220253164556962
+2023-05-02 14:10:05.242 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8830379746835443
+2023-05-02 14:10:05.242 | INFO     | __main__:test:77 - CIDEr_first_round : 1.0116632201840534
+2023-05-02 14:10:05.243 | INFO     | __main__:test:77 - CIDErs_first_round : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 14:10:05.243 | INFO     | __main__:test:77 - METEOR_first_round : 0.34272250319231
+2023-05-02 14:10:05.688 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_BEST/testB
+2023-05-02 14:10:05.688 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_BEST/testB
+2023-05-02 14:13:23.450 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_BEST/testA
+2023-05-02 14:14:27.900 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testA
+2023-05-02 14:27:41.433 | INFO     | __main__:test:77 - CIDEr : 1.0235368167114833
+2023-05-02 14:27:41.434 | INFO     | __main__:test:77 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 14:27:41.434 | INFO     | __main__:test:77 - METEOR : 0.3460271875071083
+2023-05-02 14:27:41.434 | INFO     | __main__:test:77 - OFA_Acc : 0.9220253164556962
+2023-05-02 14:27:41.434 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8830379746835443
+2023-05-02 14:27:41.434 | INFO     | __main__:test:77 - CIDEr_first_round : 1.0116632201840534
+2023-05-02 14:27:41.434 | INFO     | __main__:test:77 - CIDErs_first_round : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-02 14:27:41.435 | INFO     | __main__:test:77 - METEOR_first_round : 0.34272250319231
+2023-05-02 14:27:42.000 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_BEST/testB
+2023-05-02 14:27:42.000 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_BEST/testB
+2023-05-02 14:43:03.336 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-02 14:43:03.336 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-02 14:43:03.337 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-02 14:43:03.338 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-02 14:43:03.338 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-02 14:43:03.338 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 14:43:03.338 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-02 14:43:03.338 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-02 14:43:03.338 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-02 14:43:03.933 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_BEST/
+2023-05-02 14:43:03.933 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_BEST/
+2023-05-02 14:43:03.933 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_BEST/
+2023-05-02 15:15:31.616 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-02 15:15:31.616 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-02 15:15:31.616 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-02 15:15:31.617 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-02 15:15:31.618 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-02 15:15:32.212 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testA
+2023-05-02 15:15:32.212 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testA
+2023-05-02 15:15:32.212 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testA
+2023-05-02 15:15:32.212 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testA
+2023-05-02 15:33:24.266 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 15:33:24.266 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 15:33:24.266 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 15:33:24.266 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 15:33:24.267 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.268 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-02 15:33:24.269 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 15:33:24.269 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 15:33:24.269 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 15:33:24.269 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-02 15:33:24.836 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testB
+2023-05-02 15:33:24.836 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testB
+2023-05-02 15:33:24.836 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testB
+2023-05-02 15:33:24.836 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testB
+2023-05-02 15:33:24.836 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_BEST/testB
+2023-05-02 15:55:28.723 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 15:55:28.723 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 15:55:28.723 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 15:55:28.723 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 15:55:28.723 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 15:55:28.725 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-02 15:55:28.726 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-03 06:41:53.544 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testA
+2023-05-03 06:42:35.027 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testA
+2023-05-03 06:46:16.125 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testA
+2023-05-03 07:01:05.242 | INFO     | __main__:test:77 - CIDEr : 1.0235368167114833
+2023-05-03 07:01:05.242 | INFO     | __main__:test:77 - CIDErs : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-03 07:01:05.243 | INFO     | __main__:test:77 - METEOR : 0.3460271875071083
+2023-05-03 07:01:05.243 | INFO     | __main__:test:77 - OFA_Acc : 0.9220253164556962
+2023-05-03 07:01:05.243 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8830379746835443
+2023-05-03 07:01:05.243 | INFO     | __main__:test:77 - CIDEr_first_round : 1.0116632201840534
+2023-05-03 07:01:05.243 | INFO     | __main__:test:77 - CIDErs_first_round : [0.64611207 1.38059108 1.89031028 ... 1.22502169 1.93935873 1.56370748]
+2023-05-03 07:01:05.243 | INFO     | __main__:test:77 - METEOR_first_round : 0.34272250319231
+2023-05-03 07:01:05.725 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testB
+2023-05-03 07:01:05.725 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco/Dialog_LAST/testB
+2023-05-03 07:16:29.720 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-03 07:16:29.720 | INFO     | __main__:test:77 - CIDEr : 1.5082501563822248
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - CIDErs : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - METEOR : 0.36661805770205547
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - OFA_Acc : 0.856353591160221
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.8049723756906078
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-03 07:16:29.721 | INFO     | __main__:test:77 - CIDEr_first_round : 1.5098526841765265
+2023-05-03 07:16:29.722 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-03 07:16:29.722 | INFO     | __main__:test:77 - CIDErs_first_round : [0.54105092 0.21481277 2.82032381 ... 0.41279125 1.26326485 1.95409001]
+2023-05-03 07:16:29.722 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-03 07:16:29.722 | INFO     | __main__:test:77 - METEOR_first_round : 0.3644829115266883
+2023-05-03 07:16:30.301 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_LAST/
+2023-05-03 07:16:30.301 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_LAST/
+2023-05-03 07:16:30.301 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1, refiner Ckpt is /data/codebase/ireg/ckpt/refcocog/REG-MM-Dialog/5e-06/LAST, Dataset is refcocog, split is val, Results Saved in /data/codebase/ireg/misc/generate_result/refcocog/Dialog_LAST/
+2023-05-03 07:49:01.352 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-03 07:49:01.352 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-03 07:49:01.352 | INFO     | __main__:test:77 - CIDEr : 0.9623045710258414
+2023-05-03 07:49:01.353 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-03 07:49:01.353 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-03 07:49:01.353 | INFO     | __main__:test:77 - CIDErs : [0.95121526 1.2646543  1.04404198 ... 1.21263789 0.0433211  1.44747669]
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - METEOR : 0.18769277601698578
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - OFA_Acc : 0.8033424018655266
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.725612125923047
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-03 07:49:01.354 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9680655566673091
+2023-05-03 07:49:01.355 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-03 07:49:01.355 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-03 07:49:01.355 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00439137 1.2646543  1.04404198 ... 1.21263789 0.00140755 0.76098633]
+2023-05-03 07:49:01.355 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-03 07:49:01.355 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-03 07:49:01.355 | INFO     | __main__:test:77 - METEOR_first_round : 0.18401154511037102
+2023-05-03 07:49:01.957 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testA
+2023-05-03 07:49:01.957 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testA
+2023-05-03 07:49:01.957 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testA
+2023-05-03 07:49:01.957 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testA, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testA
+2023-05-03 08:06:20.165 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-03 08:06:20.165 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-03 08:06:20.165 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-03 08:06:20.165 | INFO     | __main__:test:77 - CIDEr : 0.8769696390868129
+2023-05-03 08:06:20.166 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.166 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.166 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.166 | INFO     | __main__:test:77 - CIDErs : [0.6478891  0.35188736 0.05729015 ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - METEOR : 0.3020258566145078
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc : 0.8668354430379747
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.7782278481012658
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-03 08:06:20.167 | INFO     | __main__:test:77 - CIDEr_first_round : 0.8717513344825143
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - CIDErs_first_round : [0.6478891  0.35188736 0.0526577  ... 0.48624902 1.49198406 1.2312014 ]
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-03 08:06:20.168 | INFO     | __main__:test:77 - METEOR_first_round : 0.30085087762348567
+2023-05-03 08:06:20.662 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-03 08:06:20.662 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-03 08:06:20.662 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-03 08:06:20.662 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-03 08:06:20.662 | INFO     | __main__:test:20 - Base Ckpt is /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3, refiner Ckpt is /data/codebase/ireg/ckpt/refcoco+/REG-MM-Dialog/5e-06/LAST, Dataset is refcoco+, split is testB, Results Saved in /data/codebase/ireg/misc/generate_result/refcoco+/Dialog_LAST/testB
+2023-05-03 08:28:23.796 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-03 08:28:23.796 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-03 08:28:23.796 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-03 08:28:23.796 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-03 08:28:23.796 | INFO     | __main__:test:77 - CIDEr : 0.8966863561824382
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - CIDErs : [1.00854239 0.41342522 1.58683274 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - METEOR : 0.24984185564107814
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-03 08:28:23.797 | INFO     | __main__:test:77 - OFA_Acc : 0.696329254727475
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - OFA_Acc_first_round : 0.5795328142380423
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDEr_first_round : 0.9501950668757412
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.798 | INFO     | __main__:test:77 - CIDErs_first_round : [1.00854239 0.41342522 0.54719673 ... 1.0612989  0.69825365 1.48733679]
+2023-05-03 08:28:23.799 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-03 08:28:23.799 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-03 08:28:23.799 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-03 08:28:23.799 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447
+2023-05-03 08:28:23.799 | INFO     | __main__:test:77 - METEOR_first_round : 0.2582038835153447

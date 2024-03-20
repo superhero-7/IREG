@@ -1,0 +1,3 @@
+python refcocog_target.py --dataset refcoco --dataset_split unc --bad_sent_root /data/codebase/ireg/misc/ireg_data_collection/vlt5_ofa_scst_combine_clamp_mmi_refcoco_train_bad_sents.json &
+python refcocog_target.py --dataset refcoco+ --dataset_split unc --bad_sent_root /data/codebase/ireg/misc/ireg_data_collection/refcoco+_vlt5_ofa_scst_combine_clamp_mmi_refcoco+_train_bad_sents.json &
+python refcocog_target.py --dataset refcocog  --dataset_split umd --bad_sent_root /data/codebase/ireg/misc/ireg_data_collection/vlt5_ofa_scst_combine_clamp_mmi_refcocog_train_bad_sents.json &

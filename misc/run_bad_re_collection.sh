@@ -1,0 +1,48 @@
+python bad_re_collection.py \
+    --gpu 0 \
+    --dataset refcoco \
+    --split 'train' \
+    --load /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/vlt5_ofa_scst_combine_clamp_mmi_refcoco_train_bad_sents.json &
+python bad_re_collection.py \
+    --gpu 1 \
+    --dataset refcoco+ \
+    --split 'train' \
+    --load /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/refcoco+_vlt5_ofa_scst_combine_clamp_mmi_refcoco+_train_bad_sents.json &
+python bad_re_collection.py \
+    --gpu 2 \
+    --dataset refcocog \
+    --split 'train' \
+    --load /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/vlt5_ofa_scst_combine_clamp_mmi_refcocog_train_bad_sents.json &
+python bad_re_collection.py \
+    --gpu 3 \
+    --dataset refcoco \
+    --split 'testA' \
+    --load /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/vlt5_ofa_scst_combine_clamp_mmi_refcoco_testA_bad_sents.json &
+python bad_re_collection.py \
+    --gpu 4 \
+    --dataset refcoco+ \
+    --split 'testA' \
+    --load /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/refcoco+_vlt5_ofa_scst_combine_clamp_mmi_refcoco+_testA_bad_sents.json &
+python bad_re_collection.py \
+    --gpu 5 \
+    --dataset refcocog \
+    --split 'val' \
+    --load /data/database/IREG_ckpt_save/refcocog_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/1 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/vlt5_ofa_scst_combine_clamp_mmi_refcocog_val_bad_sents.json &
+python bad_re_collection.py \
+    --gpu 6 \
+    --dataset refcoco \
+    --split 'testB' \
+    --load /data/database/IREG_ckpt_save/refcoco_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/vlt5_ofa_scst_combine_clamp_mmi_refcoco_testB_bad_sents.json &
+python bad_re_collection.py \
+    --gpu 7 \
+    --dataset refcoco+ \
+    --split 'testB' \
+    --load /data/database/IREG_ckpt_save/refcoco+_ckpt/vlt5_ofa_scst_combine_clamp_mmi/5e-06/3 \
+    --bad_re_save_path /data/codebase/ireg/misc/ireg_data_collection/refcoco+_vlt5_ofa_scst_combine_clamp_mmi_refcoco+_testB_bad_sents.json
