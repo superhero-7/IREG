@@ -38,7 +38,7 @@ cd Dialog
 bash scripts/REG_VLT5.sh 2 refcoco unc 0 1 25552
 ```
 
-### 代码结构
+### Project structure
 #### 1.1 ckpt
 Store all checkpoints during the training process;
 #### 1.2 misc
